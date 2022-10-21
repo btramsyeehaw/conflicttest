@@ -1,2 +1,2 @@
 intruzowaWartosc = "initial value"
-print(a)
+print(intruzowaWartosc)
