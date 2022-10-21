@@ -1,2 +1,2 @@
-a = "initial value"
+a = "new, great value"
 print(a)
