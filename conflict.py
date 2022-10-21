@@ -1,2 +1,2 @@
-a = "initial value"
+intruzowaWartosc = "initial value"
 print(a)
